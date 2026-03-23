@@ -35,7 +35,9 @@ While this repository is currently pre-loaded with the Exeter MMath syllabus, **
 
 ## Running Locally
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/SamuelSmthSmth/UoE_Course_Planner.git](https://github.com/SamuelSmthSmth/UoE_Course_Planner.git)
-   cd UoE_Course_Planner
+```bash
+git clone [https://github.com/SamuelSmthSmth/UoE_Course_Planner.git](https://github.com/SamuelSmthSmth/UoE_Course_Planner.git)
+cd UoE_Course_Planner
+npm install
+npm run dev
+
