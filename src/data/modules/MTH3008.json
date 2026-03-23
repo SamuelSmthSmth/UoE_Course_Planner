@@ -1,0 +1,13 @@
+{
+  "code": "MTH3008",
+  "title": "Partial Differential Equations",
+  "credits": 15,
+  "term": "SPR",
+  "stage": "Stage 3",
+  "prerequisites": [
+    "MTH2008"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

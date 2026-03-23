@@ -1,0 +1,13 @@
+{
+  "code": "MTH2011",
+  "title": "Linear Algebra",
+  "credits": 15,
+  "term": "SPR",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1001"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

@@ -1,0 +1,13 @@
+{
+  "code": "MTH3006",
+  "title": "Mathematical Biology and Ecology",
+  "credits": 15,
+  "term": "AUT",
+  "stage": "Stage 3",
+  "prerequisites": [
+    "MTH2006"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

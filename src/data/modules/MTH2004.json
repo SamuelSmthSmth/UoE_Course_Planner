@@ -1,0 +1,13 @@
+{
+  "code": "MTH2004",
+  "title": "Vector Calculus and Applications",
+  "credits": 15,
+  "term": "SPR",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1004"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

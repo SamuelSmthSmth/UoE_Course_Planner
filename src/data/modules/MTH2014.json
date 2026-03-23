@@ -1,0 +1,13 @@
+{
+  "code": "MTH2014",
+  "title": "Numerical Modelling",
+  "credits": 15,
+  "term": "AUT",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1001"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

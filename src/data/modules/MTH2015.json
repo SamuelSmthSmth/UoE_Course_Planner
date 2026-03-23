@@ -1,0 +1,13 @@
+{
+  "code": "MTH2015",
+  "title": "Mathematics of Machine Learning and AI",
+  "credits": 15,
+  "term": "SPR",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1001"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

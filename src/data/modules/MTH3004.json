@@ -1,0 +1,14 @@
+{
+  "code": "MTH3004",
+  "title": "Number Theory",
+  "credits": 15,
+  "term": "AUT",
+  "stage": "Stage 3",
+  "prerequisites": [
+    "MTH1004",
+    "MTH2004"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

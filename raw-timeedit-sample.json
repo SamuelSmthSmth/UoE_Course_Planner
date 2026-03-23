@@ -1,0 +1,4444 @@
+{
+  "id": 27991,
+  "externalId": "UFX4MASMAS04",
+  "code": "UFX4MASMAS04",
+  "dutchName": null,
+  "englishName": "MMath (Hons) Mathematics  (Full-Time)",
+  "importDateTime": "2026-03-19T02:37:26.361574",
+  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+  "year": {
+    "id": 23,
+    "externalId": "2026-27",
+    "code": "2026-27",
+    "englishName": "2026-27",
+    "importDateTime": "2026-03-19T02:00:28.807814",
+    "startDate": "2026-08-01",
+    "endDate": "2027-07-31",
+    "active": true,
+    "visible": true,
+    "new": false
+  },
+  "values": [
+    {
+      "id": 2137943,
+      "name": "Programme_Fee_Band_Name",
+      "value": "FDB9",
+      "new": false
+    },
+    {
+      "id": 2137929,
+      "name": "Programme_Origin_Date",
+      "value": "2025-08-01T00:00",
+      "new": false
+    },
+    {
+      "id": 2137978,
+      "name": "Framework_Type",
+      "value": "SNG1100",
+      "new": false
+    },
+    {
+      "id": 2137928,
+      "name": "Equivalent_Entry_Qualification_Access",
+      "value": "30 L3 credits at Distinction Grade and 15 L3 credits at Merit Grade.",
+      "new": false
+    },
+    {
+      "id": 2137950,
+      "name": "Equivalent_Entry_Qualification_Required_BTEC",
+      "value": "Applicants studying a BTEC Extended Diploma will also require A level Mathematics Grade A",
+      "new": false
+    },
+    {
+      "id": 2137925,
+      "name": "terminated",
+      "value": "false",
+      "new": false
+    },
+    {
+      "id": 2137948,
+      "name": "Fees_Home_Parttime",
+      "value": "4895",
+      "new": false
+    },
+    {
+      "id": 2137964,
+      "name": "Marketing_YF_Global_and_Professional_Experience",
+      "value": "<p>As part of our MMath Mathematics degree and International Study and Year in Industry pathways, yo",
+      "new": false
+    },
+    {
+      "id": 2137937,
+      "name": "Programme_Delivery_Method",
+      "value": "FTF",
+      "new": false
+    },
+    {
+      "id": 2137935,
+      "name": "Marketing_LT_Where_and_How_You_Will_Learn",
+      "value": "<p>There are modules at all levels that involve project work and report writing, and the final year ",
+      "new": false
+    },
+    {
+      "id": 2137951,
+      "name": "Marketing_LT_Summary",
+      "value": "<p>All our degrees involve a combination of teaching methods, including lectures, seminars, examples",
+      "new": false
+    },
+    {
+      "id": 2137940,
+      "name": "Programme_Title",
+      "value": "Mathematics",
+      "new": false
+    },
+    {
+      "id": 2137953,
+      "name": "Proposed_Programme_Length_Value",
+      "value": "45",
+      "new": false
+    },
+    {
+      "id": 2137971,
+      "name": "faculty",
+      "value": "ESE",
+      "new": false
+    },
+    {
+      "id": 2137969,
+      "name": "Programme_Shortened_Award",
+      "value": "MMath-H",
+      "new": false
+    },
+    {
+      "id": 2137921,
+      "name": "Equivalent_Entry_Qualification_Required_ALevel",
+      "value": "A in Mathematics, Pure Mathematics or Further Mathematics",
+      "new": false
+    },
+    {
+      "id": 2137944,
+      "name": "Fees_Home_Fulltime",
+      "value": "9790",
+      "new": false
+    },
+    {
+      "id": 2137958,
+      "name": "Programme_Approval_Route",
+      "value": "SAP",
+      "new": false
+    },
+    {
+      "id": 2137955,
+      "name": "Equivalent_Entry_Qualification_Required_GCSE",
+      "value": "Grade 4/C in GCSE English Language",
+      "new": false
+    },
+    {
+      "id": 2137941,
+      "name": "Marketing_YF_Summary",
+      "value": "<p>Exeter has an excellent reputation with graduate recruiters and a strong employment record. Our g",
+      "new": false
+    },
+    {
+      "id": 2137960,
+      "name": "Equivalent_Entry_Qualification_BTEC",
+      "value": "DDD",
+      "new": false
+    },
+    {
+      "id": 2137939,
+      "name": "MAS_Code",
+      "value": "ECMUUFG102",
+      "new": false
+    },
+    {
+      "id": 2137961,
+      "name": "Equivalent_Entry_Contextual_Offer_ALevel",
+      "value": "ABB",
+      "new": false
+    },
+    {
+      "id": 2137924,
+      "name": "Marketing_LT_Module_Choice_and_Other_Opportunities",
+      "value": "<p>Once you have mastered the foundations, our mathematics programmes offer in later years a wide ra",
+      "new": false
+    },
+    {
+      "id": 2137946,
+      "name": "Fees_International_Parttime",
+      "value": "15050",
+      "new": false
+    },
+    {
+      "id": 2137933,
+      "name": "Equivalent_Entry_Qualification_Required_Access_to_HE",
+      "value": "15 L3 credits at Distinction Grade in an acceptable Mathematics subject area",
+      "new": false
+    },
+    {
+      "id": 2137972,
+      "name": "Programme_Child_Award",
+      "value": "U74-01-05",
+      "new": false
+    },
+    {
+      "id": 2137977,
+      "name": "Marketing_YF_Future_Careers",
+      "value": "<p>The broad-based skills acquired during your degree will give you an excellent grounding for a wid",
+      "new": false
+    },
+    {
+      "id": 2137931,
+      "name": "SITS_Route_Code",
+      "value": "MMMATH",
+      "new": false
+    },
+    {
+      "id": 2137968,
+      "name": "Marketing_LT_A_Research_and_Practice-led_Culture",
+      "value": "<p>You will benefit from teaching by academic staff comprising internationally-recognised mathematic",
+      "new": false
+    },
+    {
+      "id": 2137932,
+      "name": "Equivalent_Entry_Contextual_Offer_BTEC",
+      "value": "DDM",
+      "new": false
+    },
+    {
+      "id": 2137954,
+      "name": "Marketing_LT_Supporting_Your_Studies",
+      "value": "<p>In addition to lectures and seminars, you should spend about 20 hours per week in private study. ",
+      "new": false
+    },
+    {
+      "id": 2137967,
+      "name": "Marketing_Contextual_Offer_Required_Subjects",
+      "value": "MKT",
+      "new": false
+    },
+    {
+      "id": 2137966,
+      "name": "Programme_Admissions_English_Language_Requirement_Profile",
+      "value": "B2",
+      "new": false
+    },
+    {
+      "id": 2137942,
+      "name": "SITS_PRG_Programme_Name",
+      "value": "MMath Mathematics",
+      "new": false
+    },
+    {
+      "id": 2137975,
+      "name": "Programme_Status",
+      "value": "ACT",
+      "new": false
+    },
+    {
+      "id": 2137927,
+      "name": "Marketing_LT_Assessment_and_Progression",
+      "value": "<p>Assessment for all degrees is through a combination of examinations and coursework. Examinations ",
+      "new": false
+    },
+    {
+      "id": 2137952,
+      "name": "SITS_PRG_Programme_Code",
+      "value": "UFX4MASMAS04",
+      "new": false
+    },
+    {
+      "id": 2137963,
+      "name": "Marketing_Programme_Duration",
+      "value": "4 years",
+      "new": false
+    },
+    {
+      "id": 2137938,
+      "name": "Programme_Delivery_Campus",
+      "value": "STR",
+      "new": false
+    },
+    {
+      "id": 2137965,
+      "name": "Equivalent_Entry_Qualification_Required_IB",
+      "value": "HL 6 in Mathematics (Analysis and Approaches)",
+      "new": false
+    },
+    {
+      "id": 2137973,
+      "name": "Marketing_Other_Accepted_Qualifications",
+      "value": "MKT",
+      "new": false
+    },
+    {
+      "id": 2137956,
+      "name": "Equivalent_Entry_Qualification_Required_TLevel",
+      "value": "T-Levels not accepted",
+      "new": false
+    },
+    {
+      "id": 2137930,
+      "name": "External_Parent_Programme_Code",
+      "value": "UFS3MASMAS09",
+      "new": false
+    },
+    {
+      "id": 2137970,
+      "name": "UCAS_Code",
+      "value": "G102",
+      "new": false
+    },
+    {
+      "id": 2137962,
+      "name": "Programme_Level_Of_Study",
+      "value": "UGT",
+      "new": false
+    },
+    {
+      "id": 2137949,
+      "name": "Fees_International_Fulltime",
+      "value": "30100",
+      "new": false
+    },
+    {
+      "id": 2137923,
+      "name": "Marketing_Variant_Does_It_Count_To_My_Degree",
+      "value": "<p>Yes, it's worth 120 credits.</p>",
+      "new": false
+    },
+    {
+      "id": 2137959,
+      "name": "Programme_Mode_Of_Attendance",
+      "value": "FUT",
+      "new": false
+    },
+    {
+      "id": 2137922,
+      "name": "Equivalent_Entry_Qualification_Tlevel",
+      "value": "T-Levels not accepted",
+      "new": false
+    },
+    {
+      "id": 2137974,
+      "name": "Programme_Exit_Programme",
+      "value": "No",
+      "new": false
+    },
+    {
+      "id": 2137957,
+      "name": "Awarding_Institution",
+      "value": "UOE",
+      "new": false
+    },
+    {
+      "id": 2137945,
+      "name": "Equivalent_Entry_Qualification_IB",
+      "value": "36/666",
+      "new": false
+    },
+    {
+      "id": 2137934,
+      "name": "Marketing_Name",
+      "value": "MMath Mathematics",
+      "new": false
+    },
+    {
+      "id": 2137976,
+      "name": "Marketing_Overview",
+      "value": "<ul><li>Gives a deep and broad understanding of modern advanced mathematics, with options to take ad",
+      "new": false
+    },
+    {
+      "id": 2137926,
+      "name": "Equivalent_Entry_Contextual_Offer_IB",
+      "value": "32",
+      "new": false
+    },
+    {
+      "id": 2137936,
+      "name": "Marketing_Entry_Text_Notes",
+      "value": "<p><b>International Foundation programmes</b></p><p>Preparation for entry to Year 1 of an undergradu",
+      "new": false
+    },
+    {
+      "id": 2137947,
+      "name": "Programme_Split_Ownership_Check",
+      "value": "No",
+      "new": false
+    }
+  ],
+  "credits": null,
+  "data": {
+    "metadata": {
+      "organisationId": "67caa2bbd7032108f05b1918",
+      "publicationDate": "2026-03-15T15:32:43.770217",
+      "versionDate": "2026-03-09T12:33:41.701261",
+      "versionNumber": 189801
+    },
+    "key": 57449,
+    "id": "UFX4MASMAS04",
+    "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+    "code": "UFX4MASMAS04",
+    "year": {
+      "id": "2026-27",
+      "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+      "code": "2026-27",
+      "names": [
+        {
+          "language": "EN",
+          "value": "2026-27"
+        }
+      ]
+    },
+    "faculty": {
+      "id": "ESE",
+      "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+      "code": "ESE",
+      "abbreviation": "ESE",
+      "names": [
+        {
+          "language": "EN",
+          "value": "Faculty of Environment, Science and Economy"
+        }
+      ]
+    },
+    "organisation": {
+      "id": "MAT",
+      "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+      "code": "MAT",
+      "abbreviation": "MAT",
+      "names": [
+        {
+          "language": "EN",
+          "value": "Mathematics and Statistics"
+        }
+      ]
+    },
+    "specification": {
+      "metadata": {
+        "organisationId": "67caa2bbd7032108f05b1918"
+      },
+      "key": 30624,
+      "id": "MATUGT158998998SAP",
+      "uid": "725f3a5c-cf8e-4c3f-b6d9-db19218714ea",
+      "code": "MATUGTSAP30624",
+      "year": {
+        "id": "2026-27",
+        "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+        "code": "2026-27",
+        "names": [
+          {
+            "language": "EN",
+            "value": "2026-27"
+          }
+        ]
+      },
+      "faculty": {
+        "id": "ESE",
+        "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+        "code": "ESE",
+        "abbreviation": "ESE",
+        "names": [
+          {
+            "language": "EN",
+            "value": "Faculty of Environment, Science and Economy"
+          }
+        ]
+      },
+      "names": [
+        {
+          "language": "EN",
+          "value": "UGT - Mathematics - SAP"
+        }
+      ],
+      "additional": {
+        "values": [
+          {
+            "name": "Programme_Collection_Accreditation_Department_Resources",
+            "type": "BOOLEAN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "Programme_Collection_Status",
+            "type": "REFERENCE",
+            "subType": "Status",
+            "values": [
+              "ACT"
+            ]
+          },
+          {
+            "name": "Programme_Collection_Accreditation_Requirements_Consideration",
+            "type": "BOOLEAN",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "Programme_Collection_Owning_Department",
+            "type": "ENTITY",
+            "subType": "organisation",
+            "values": [
+              "MAT"
+            ]
+          }
+        ]
+      },
+      "credits": {
+        "values": []
+      },
+      "capacity": {
+        "values": []
+      },
+      "descriptions": [],
+      "relations": [],
+      "items": [],
+      "links": [],
+      "qualifications": [],
+      "values": [
+        {
+          "name": "Programme_Collection_Type",
+          "type": "ENTITY",
+          "subType": "specification-type",
+          "values": [
+            "SAP"
+          ]
+        },
+        {
+          "name": "Level_Of_Study",
+          "type": "REFERENCE",
+          "subType": "Level_Of_Study",
+          "values": [
+            "UGT"
+          ]
+        },
+        {
+          "name": "Programme_Collection_Title",
+          "type": "STRING",
+          "values": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Programme_Collection_Institution",
+          "type": "ENTITY",
+          "subType": "institution",
+          "values": [
+            "UOE"
+          ]
+        },
+        {
+          "name": "Programme_Collection_Origin_Date",
+          "type": "DATE_TIME",
+          "values": [
+            "2025-08-01T00:00"
+          ]
+        }
+      ]
+    },
+    "terminated": false,
+    "credits": {
+      "values": []
+    },
+    "capacity": {
+      "values": []
+    },
+    "names": [
+      {
+        "language": "EN",
+        "value": "MMath (Hons) Mathematics  (Full-Time)"
+      }
+    ],
+    "descriptions": [
+      {
+        "type": {
+          "id": "Programme_Description",
+          "uid": "0a9c81c7-852c-4d75-933b-af155b26c70e",
+          "code": "Programme_Description",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Programme Description"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>Mathematics plays an important role in many aspects of modern life, providing the techniques and language to handle problems from a wide variety of disciplines. It has always been essential for engineering and the physical sciences and is becoming increasingly important in the life sciences and social sciences. Yet mathematics is not only studied because of its applications; it has a fascination and beauty of its own, characterised by precision and logical rigour. Mathematics forms a rewarding, challenging and varied subject of study at university, and our mathematics degrees span a wide range of mathematical topics, encompassing mathematical methods, pure mathematics, applied mathematics, and probability and statistics. The 4-year MMath programme allows you to follow your mathematical interests to a deeper level than the BSc programme, and is particularly suitable for those considering postgraduate work in mathematics or a career which makes extensive use of advanced mathematical techniques in the academic, industrial or commercial sectors.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_Aims",
+          "uid": "1c522880-d5c6-4b96-bcc0-da86bac0729c",
+          "code": "Programme_Aims",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Programme Education Aims"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>The programme is intended to:<br>a) provide a high quality mathematical education comprising a balanced core of key knowledge together with the opportunity to study a range of selected topics in more depth, some at an advanced level;<br>b) provide the foundations needed for those intending to become professional or research mathematicians;<br>c) develop the analytical abilities of students so that they can identify and apply appropriate mathematical techniques and methods to solve problems in a range of application areas;<br>d) develop in students appropriate subject-specific, core academic and personal and key skills in order to prepare them for a wide range of employment opportunities including a research career in mathematics;<br>e) generate in students an enthusiasm for the subject of mathematics and involve them in a demanding, interesting and intellectually stimulating learning experience reinforced by appropriate academic and pastoral tutorial support.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Subject_Assessment",
+          "uid": "ae5a5107-d268-4b55-bab4-3ee89418e58c",
+          "code": "Programme_ILO_Subject_Assessment",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Assessment Methods"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>Most knowledge is tested through formal examinations. Assessment of some modules involves essays, project reports, oral presentation or computer practicals. The compulsory project is assessed through a written report and an associated viva.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Subject",
+          "uid": "ff1bf93a-a50a-446b-b4b8-f1ef954a0fed",
+          "code": "Programme_ILO_Subject",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Specialised Subject Skills and Knowledge"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>(A) Demonstrate subject knowledge and understanding of:</p><p>1) the terminology and conventions used in mathematics;<br>2) a range of fundamental concepts and techniques from calculus, vectors, analysis, algebra, dynamics, probability, statistics, computation and optimization;<br>3) the breadth of topics that can be tackled by mathematics and the use of the key techniques in a range of applicable areas;<br>4) a selection of more specialist optional topics from various branches of mathematics;<br>5) a deeper insight into selected more advanced areas of mathematics and their applications;<br>6) the fundamentals of the use of modern technology in mathematics, for example computer algebra or computational packages.<br>7) work on a substantial independent project relating to an advanced topic at the interface of research mathematics.<br>8) research methods and techniques in mathematics.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Subject_Learning",
+          "uid": "d5811b64-4d81-45f8-8823-9ab7ec534225",
+          "code": "Programme_ILO_Subject_Learning",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Learning and Teaching Activities"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>Knowledge in (1-4) is primarily provided through formal lectures supported by regular problem sheets for students to tackle on their own. At Stages 1 and 2 lectures are reinforced by regular tutorial groups in which assistance with, and feedback on, problem sheets is given. At later stages in the programme students work on set problems by themselves and seek help when required using the office hours of staff. Applications of mathematics (3) are introduced in various Stage 1 and 2 modules and more advanced applications are introduced in Stage 3 options. Modules at Stage 3 encompass a range of special topics in mathematics (4). In depth knowledge of selected topics (5) is provided in Stage 4 options. Knowledge in (6) is provided through computer practical classes at Stage 1 and is reinforced in some other module in Stage 1 and at later stages. Knowledge in (7) and (8) is acquired in the project at the final stage.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Department",
+          "uid": "8a6c91f3-ae9b-48c8-b1e1-c4e544f471f8",
+          "code": "Programme_ILO_Department",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Academic Discipline Core Skills and Knowledge"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>1) think logically;<br>2) understand and construct mathematical proofs;<br>3) formulate, analyse and solve problems;<br>4) organise tasks into a structured form;<br>5) integrate theory and applications;<br>6) transfer appropriate knowledge and methods from one topic within the subject to another;<br>7) apply a range of mathematical ideas to unfamiliar problems and demonstrate good selection of choice in solution strategy;<br>8) demonstrate a capacity for critical evaluation of arguments and evidence;<br>9) present mathematical material clearly, logically and accurately, both in writing and orally;<br>10) plan, execute and report on a substantial project and defend the results</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Department_Learning",
+          "uid": "78a4cae7-9bbd-4fb4-bf90-3df7e4cdd26b",
+          "code": "Programme_ILO_Department_Learning",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Learning and Teaching Activities"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>All these skills are an essential part of the understanding of mathematics, are embedded throughout core elements of the programme and are intrinsic to good performance in the programme. They are developed through formal lectures, tutorials, coursework, computer practicals, use of IT and private study. Skills (7-9) in particular are reinforced in optional modules involving directed reading, reports or seminars at Stages 3 or 4. The final stage project develops skills (4), (5) and (7-10).</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Department_Assessment",
+          "uid": "978d9977-8b5c-4b25-a735-efd6e9408ecb",
+          "code": "Programme_ILO_Department_Assessment",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Assessment Methods"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>All these skills are tested indirectly in various core elements of the programme, with (5-9) contributing particularly to the more successful work. They are all assessed in part through written coursework and in part by unseen formal examinations. Skills (8-10) are directly assessed in some optional modules via oral presentation, essays or reports. Skills (4), (5) and (7-10) are assessed in the final Stage project and associated viva.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Personal",
+          "uid": "28b7fb4b-b921-48b4-89f2-0621289aed76",
+          "code": "Programme_ILO_Personal",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Personal, Transferable and Employment Skills and Knowledge"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>1) use a range of IT software including standard and mathematical word-processing applications and computer algebra software;<br>2) communicate ideas effectively and clearly by appropriate means including oral presentation;<br>3) manage time effectively;<br>4) search and retrieve information from a variety of sources including libraries, databases and the web;<br>5) work as part of a team;<br>6) demonstrate independent learning ability required for continuing professional development;<br>7) plan their career and personal development.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Personal_Learning",
+          "uid": "528084c1-2ad8-49c6-bbef-0c1b98cd3a12",
+          "code": "Programme_ILO_Personal_Learning",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Learning and Teaching Activities"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>Skill (1) is developed from Stage 1 through use through use of the mathematical computing packages in core Stage 1 modules. Skills (1-2) are developed in various other core components of the programme e.g. oral presentations in Stage 1 tutorials, and the requirement for submission of word-processed coursework in some assignments in certain modules at Stages 1 and 2. Skill (3) is intrinsic to successful completion of the programme. Skills (4) and (5) are developed in one of the core modules at Stage 1 and in some optional Stage 3 and 4 modules involving project or group work. Skills (2), (4) and (6) are integral to the compulsory advanced project at Stage 4. Skill (7) is reinforced through annual self-appraisals with personal tutors.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_ILO_Personal_Assessment",
+          "uid": "26a04db5-a175-41da-a814-71232ea232fe",
+          "code": "Programme_ILO_Personal_Assessment",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Assessment Methods"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>Skills (1-3) are indirectly assessed as part of coursework in core modules and effective use of skills (1-4) will generally enhance performance throughout the programme. Skills (1-5) are more directly assessed in one of the core modules at Stage 1 and at Stage 3 in some optional modules via group exercises, essays, project reports or oral presentations. Skills (2), (3), (4) and in particular (6) are assessed in the final year project report and associated viva.</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_Structure_STG1_Detail",
+          "uid": "e30cfb65-b8c7-4567-9169-e72ffdc1cabf",
+          "code": "Programme_Structure_STG1_Detail",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Programme Structure - Stage 1 Detail"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>120 credits of compulsory modules</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_Structure_STG2_Detail",
+          "uid": "2d145fda-1df4-4961-8784-d472ded6b6ec",
+          "code": "Programme_Structure_STG2_Detail",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Programme Structure - Stage 2 Detail"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>120 credits of optional modules</p><p>You must select 60-90 credits from Optional Module Group 1</p><p>You must select 30-60 credits from Optional Module Group 1</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_Structure_STG3_Detail",
+          "uid": "67a22a9f-3fbe-4d02-8f4b-f95686cbd351",
+          "code": "Programme_Structure_STG3_Detail",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Programme Structure - Stage 3 Detail"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>15 credits of compulsory modules, 105 credits of optional modules</p><p>You must select 75-105 credits from Optional Module Group 1</p><p>You may select 0-30 credits from Optional Module Group 1</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_Structure_STG4_Detail",
+          "uid": "e39f465e-b89d-402f-b1f7-832988605142",
+          "code": "Programme_Structure_STG4_Detail",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Programme Structure - Stage 4 Detail"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>30-45 credits of compulsory modules, 75-90 credits of optional modules</p><p>You must choose either MTHM005 or MTHM044 form Compulsory Choice Group, you cannot choose both</p>"
+      },
+      {
+        "type": {
+          "id": "Programme_Accreditation_Details",
+          "uid": "fc0ec820-cf5b-45c4-bb39-1a462a4ed4a4",
+          "code": "Programme_Accreditation_Details",
+          "names": [
+            {
+              "language": "EN",
+              "value": "Programme Accreditation Details"
+            }
+          ]
+        },
+        "language": "EN",
+        "text": "<p>Certain programmes are subject to accreditation and/ or review by professional and statutory regulatory bodies (PSRBs).</p><p>This programme is accredited by the Institution of Mathematics and its Applications (IMA) for the purpose of fully meeting the educational requirements of the Chartered Mathematician designation.</p><p>Accreditation is awarded for a maximum of 6 years under each assessment exercise. The dates applicable to the current accreditation of this degree programme can be viewed on the IMA list of accredited degrees: <a>www.ima.org.uk</a>.</p>"
+      }
+    ],
+    "relations": [],
+    "additional": {
+      "values": [
+        {
+          "name": "Equivalent_Entry_Contextual_Offer_IB",
+          "type": "STRING",
+          "values": [
+            "32"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_IB",
+          "type": "REFERENCE",
+          "subType": "Equivalent_Entry_Qualification_IB",
+          "values": [
+            "36/666"
+          ]
+        },
+        {
+          "name": "Programme_Admissions_English_Language_Requirement_Profile",
+          "type": "STRING",
+          "values": [
+            "B2"
+          ]
+        },
+        {
+          "name": "Marketing_YF_Future_Careers",
+          "type": "STRING",
+          "values": [
+            "<p>The broad-based skills acquired during your degree will give you an excellent grounding for a wide variety of careers, not only those related to Mathematics but also in wider fields.Examples of roles recent graduates are now working as include:</p><ul><li>Accountant</li><li>Actuary</li><li>Analyst Programmer</li><li>Business Analyst</li><li>Credit Risk Analyst</li><li>Data Science Developer</li><li>Investment Analyst</li><li>Software Engineer</li><li>Statistician</li><li>Tax Manager</li></ul>"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Required_GCSE",
+          "type": "STRING",
+          "values": [
+            "Grade 4/C in GCSE English Language"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Required_IB",
+          "type": "STRING",
+          "values": [
+            "HL 6 in Mathematics (Analysis and Approaches)"
+          ]
+        },
+        {
+          "name": "Marketing_Entry_Text_Notes",
+          "type": "STRING",
+          "values": [
+            "<p><b>International Foundation programmes</b></p><p>Preparation for entry to Year 1 of an undergraduate degree:</p><ul><li><a href=\"https://www.intostudy.com/en/universities/university-of-exeter/courses/exeter-international-foundation\">Foundation programme for Engineering, Mathematics, Computer Science and Physical Sciences</a>.</li></ul>"
+          ]
+        },
+        {
+          "name": "Fees_Home_Parttime",
+          "type": "STRING",
+          "values": [
+            "4895"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Required_BTEC",
+          "type": "STRING",
+          "values": [
+            "Applicants studying a BTEC Extended Diploma will also require A level Mathematics Grade A"
+          ]
+        },
+        {
+          "name": "Marketing_Name",
+          "type": "STRING",
+          "values": [
+            "MMath Mathematics"
+          ]
+        },
+        {
+          "name": "Marketing_Variant_Does_It_Count_To_My_Degree",
+          "type": "STRING",
+          "values": [
+            "<p>Yes, it's worth 120 credits.</p>"
+          ]
+        },
+        {
+          "name": "Programme_Fee_Band_Name",
+          "type": "STRING",
+          "values": [
+            "FDB9"
+          ]
+        },
+        {
+          "name": "Framework_Type",
+          "type": "REFERENCE",
+          "subType": "Framework_Type",
+          "values": [
+            "SNG1100"
+          ]
+        },
+        {
+          "name": "Marketing_LT_Assessment_and_Progression",
+          "type": "STRING",
+          "values": [
+            "<p>Assessment for all degrees is through a combination of examinations and coursework. Examinations are the more important part of the process, but the coursework helps you to work steadily throughout your degree. This is particularly important in Mathematics where the subject matter develops logically as the degree progresses. Written examinations for mathematics modules are held in January and May/June of the first and second years and in May/June of each subsequent year. Some modules have tests, essays, presentations and/or project reports that contribute to the assessment.</p>"
+          ]
+        },
+        {
+          "name": "Marketing_Programme_Duration",
+          "type": "STRING",
+          "values": [
+            "4 years"
+          ]
+        },
+        {
+          "name": "Programme_Exit_Programme",
+          "type": "REFERENCE",
+          "subType": "YesNo",
+          "values": [
+            "No"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Required_Access_to_HE",
+          "type": "STRING",
+          "values": [
+            "15 L3 credits at Distinction Grade in an acceptable Mathematics subject area"
+          ]
+        },
+        {
+          "name": "Marketing_LT_Supporting_Your_Studies",
+          "type": "STRING",
+          "values": [
+            "<p>In addition to lectures and seminars, you should spend about 20 hours per week in private study. Working through examples and solving problems is a vital part of learning mathematics, and we advise you attempt all coursework problems, whether formally assessed or not. You will be allocated a personal tutor who will be happy to advise or put you in touch with support services and you are encouraged to discuss mathematical problems or questions with tutors and lecturers who advertise regular office hours. Extra support is available, for example through lunchtime mathematics surgeries or our peer mentor scheme, and we have an active student-staff liaison committee.</p>"
+          ]
+        },
+        {
+          "name": "Marketing_Contextual_Offer_Required_Subjects",
+          "type": "REFERENCE",
+          "subType": "Marketing_Contextual_Offer_Required_Subjects",
+          "values": [
+            "MKT"
+          ]
+        },
+        {
+          "name": "Marketing_LT_Module_Choice_and_Other_Opportunities",
+          "type": "STRING",
+          "values": [
+            "<p>Once you have mastered the foundations, our mathematics programmes offer in later years a wide range of options within the programme. In addition to the named degrees with study abroad, professional experience and year in industry, you can take optional (called elective) modules from all over the university in later years. These options are subject to your availability, having the appropriate background (pre-requisites) and certain programme constraints.</p><p>Each year, if you have optional modules available, you can take up to 30 credits in a subject outside of your course. This can increase your employability and widen your intellectual horizons.</p><p><b>Proficiency in a second subject</b></p><p>If you complete 60 credits of modules in specified subjects, you may have the words 'with Proficiency in’ added to your degree title when you graduate.</p><p><a href=\"https://www.exeter.ac.uk/study/undergraduate/study/proficiency/\" class=\"button arrow-icon\" target=\"_blank\">Find out more about proficiency options</a></p>"
+          ]
+        },
+        {
+          "name": "Programme_Child_Award",
+          "type": "REFERENCE",
+          "subType": "Child_Award",
+          "values": [
+            "U74-01-05"
+          ]
+        },
+        {
+          "name": "Programme_Delivery_Campus",
+          "type": "REFERENCE",
+          "subType": "Campus",
+          "values": [
+            "STR"
+          ]
+        },
+        {
+          "name": "Fees_International_Fulltime",
+          "type": "STRING",
+          "values": [
+            "30100"
+          ]
+        },
+        {
+          "name": "Programme_Status",
+          "type": "REFERENCE",
+          "subType": "Status",
+          "values": [
+            "ACT"
+          ]
+        },
+        {
+          "name": "Marketing_Overview",
+          "type": "STRING",
+          "values": [
+            "<ul><li>Gives a deep and broad understanding of modern advanced mathematics, with options to take advanced modules and an independent research project chosen from a wide range of topics</li><li>Particularly suited to those considering postgraduate study, or careers requiring advanced mathematical skills</li><li>Opportunity to gain ‘Professional Experience’ in commerce or industry during the summer vacation between two years of study</li><li>Choose to take a semester abroad ‘with International Study’ at a partner university in Continental Europe, USA, Canada, Australia or New Zealand during your third year</li><li>Option to extend your degree and spend a ‘Year in Industry’ at companies such as Lloyds Banking Group, Coca-Cola, Met Office and PwC</li></ul>"
+          ]
+        },
+        {
+          "name": "Marketing_LT_Where_and_How_You_Will_Learn",
+          "type": "STRING",
+          "values": [
+            "<p>There are modules at all levels that involve project work and report writing, and the final year project is a major piece of research and writing that allows you to go into depth for a specific area under the guidance of a member of academic staff. You can choose from wide range of possible project topics each year, or negotiate a topic/title with a member of academic staff. Several of the modules develop skills to use a range of modern computer tools for working with data, programming or symbolic algebra as well as typesetting and presentation.</p>"
+          ]
+        },
+        {
+          "name": "MAS_Code",
+          "type": "STRING",
+          "values": [
+            "ECMUUFG102"
+          ]
+        },
+        {
+          "name": "Programme_Mode_Of_Attendance",
+          "type": "REFERENCE",
+          "subType": "Mode_Of_Attendance",
+          "values": [
+            "FUT"
+          ]
+        },
+        {
+          "name": "Awarding_Institution",
+          "type": "ENTITY",
+          "subType": "institution",
+          "values": [
+            "UOE"
+          ]
+        },
+        {
+          "name": "Programme_Shortened_Award",
+          "type": "REFERENCE",
+          "subType": "Programme_Shortened_Award_List",
+          "values": [
+            "MMath-H"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Contextual_Offer_BTEC",
+          "type": "STRING",
+          "values": [
+            "DDM"
+          ]
+        },
+        {
+          "name": "Marketing_YF_Global_and_Professional_Experience",
+          "type": "STRING",
+          "values": [
+            "<p>As part of our MMath Mathematics degree and International Study and Year in Industry pathways, you can choose to take an optional ‘Commercial and Industrial Experience’ module during the vacation before your third year. This opportunity allows you to gain paid work experience in a commercial setting while earning credits towards your degree programme. Professional experience not only develops your CV but helps you to determine your career aspirations. We have excellent links with employers and can provide assistance in finding suitable employment.</p>"
+          ]
+        },
+        {
+          "name": "Marketing_LT_A_Research_and_Practice-led_Culture",
+          "type": "STRING",
+          "values": [
+            "<p>You will benefit from teaching by academic staff comprising internationally-recognised mathematicians, scientists and practitioners active across a wide range of topics in pure and applied mathematics, statistics and applications. As you progress through your degree, you will hear about the latest mathematical research and have opportunities (for example, the independent research project) to become actively involved in a research project yourself.</p>"
+          ]
+        },
+        {
+          "name": "External_Parent_Programme_Code",
+          "type": "ENTITY",
+          "subType": "study",
+          "values": [
+            "UFS3MASMAS09"
+          ]
+        },
+        {
+          "name": "SITS_Route_Code",
+          "type": "STRING",
+          "values": [
+            "MMMATH"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Access",
+          "type": "STRING",
+          "values": [
+            "30 L3 credits at Distinction Grade and 15 L3 credits at Merit Grade."
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_BTEC",
+          "type": "REFERENCE",
+          "subType": "Equivalent_Entry_Qualification_BTEC",
+          "values": [
+            "DDD"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Tlevel",
+          "type": "STRING",
+          "values": [
+            "T-Levels not accepted"
+          ]
+        },
+        {
+          "name": "Fees_Home_Fulltime",
+          "type": "STRING",
+          "values": [
+            "9790"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Contextual_Offer_ALevel",
+          "type": "STRING",
+          "values": [
+            "ABB"
+          ]
+        },
+        {
+          "name": "Marketing_Other_Accepted_Qualifications",
+          "type": "REFERENCE",
+          "subType": "Marketing_Other_Accepted_Qualifications",
+          "values": [
+            "MKT"
+          ]
+        },
+        {
+          "name": "Programme_Split_Ownership_Check",
+          "type": "REFERENCE",
+          "subType": "YesNo",
+          "values": [
+            "No"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Required_TLevel",
+          "type": "STRING",
+          "values": [
+            "T-Levels not accepted"
+          ]
+        },
+        {
+          "name": "Equivalent_Entry_Qualification_Required_ALevel",
+          "type": "STRING",
+          "values": [
+            "A in Mathematics, Pure Mathematics or Further Mathematics"
+          ]
+        },
+        {
+          "name": "Marketing_LT_Summary",
+          "type": "STRING",
+          "values": [
+            "<p>All our degrees involve a combination of teaching methods, including lectures, seminars, examples classes, workshops and tutorials. Most modules in mathematics involve three one-hour lectures per week, so you typically have 12 lectures per week. In the first year there are tutorial classes for each module every fortnight, except for modules involving computing or project work. Thus in the first year you would typically have around 16 contact hours per week. In the first term, the ‘Foundations’ module helps you with the transition from A level to university mathematics.</p>"
+          ]
+        },
+        {
+          "name": "Marketing_YF_Summary",
+          "type": "STRING",
+          "values": [
+            "<p>Exeter has an excellent reputation with graduate recruiters and a strong employment record. Our graduates go on to excel in many specialist mathematical fields and across a broad range of other sectors. We offer a very wide range of opportunities for you to develop the deep and adaptable skills that employers are looking for.</p><p>You’ll be able to meet with local and national employers who regularly visit the university to engage with students, hosting mock interviews, CV workshops, drop-ins and lectures. This is a great opportunity for you to find out more about the day to day activities of their business and recruitment opportunities. Our Careers Service also host a wealth of employer activity, such as Careers Fairs, so you’ll never be short of chances to network with potential employers.</p>"
+          ]
+        },
+        {
+          "name": "UCAS_Code",
+          "type": "STRING",
+          "values": [
+            "G102"
+          ]
+        },
+        {
+          "name": "Fees_International_Parttime",
+          "type": "STRING",
+          "values": [
+            "15050"
+          ]
+        }
+      ]
+    },
+    "items": [],
+    "subjects": [],
+    "objectives": [],
+    "links": [],
+    "qualifications": [],
+    "groups": [
+      {
+        "uid": "070f1a4a-faf8-4231-a5cb-d426f7ee6e6a",
+        "group": {
+          "metadata": {
+            "organisationId": "67caa2bbd7032108f05b1918",
+            "publicationDate": "2026-03-15T15:32:43.780045",
+            "versionDate": "2026-02-17T13:38:17.311225",
+            "versionNumber": 104669
+          },
+          "key": 67409,
+          "id": "UFX4MASMAS04-STG1",
+          "uid": "2c022a65-1326-4363-a389-b9ef476da8e4",
+          "code": "UFX4MASMAS04-STG1",
+          "year": {
+            "id": "2026-27",
+            "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+            "code": "2026-27",
+            "names": [
+              {
+                "language": "EN",
+                "value": "2026-27"
+              }
+            ]
+          },
+          "faculty": {
+            "id": "ESE",
+            "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+            "code": "ESE",
+            "abbreviation": "ESE",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Faculty of Environment, Science and Economy"
+              }
+            ]
+          },
+          "organisation": {
+            "id": "MAT",
+            "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+            "code": "MAT",
+            "abbreviation": "MAT",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Mathematics and Statistics"
+              }
+            ]
+          },
+          "study": {
+            "id": "UFX4MASMAS04",
+            "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+            "code": "UFX4MASMAS04",
+            "names": [
+              {
+                "language": "EN",
+                "value": "MMath (Hons) Mathematics  (Full-Time)"
+              }
+            ]
+          },
+          "type": "STG1",
+          "credits": {
+            "values": []
+          },
+          "capacity": {
+            "values": []
+          },
+          "names": [
+            {
+              "language": "EN",
+              "value": "MMath Mathematics | Stage 1"
+            }
+          ],
+          "descriptions": [],
+          "relations": [],
+          "additional": {
+            "values": []
+          },
+          "items": [],
+          "subjects": [],
+          "objectives": [],
+          "links": [],
+          "groups": [
+            {
+              "uid": "6532b745-772c-4f2d-adea-17bde0ee7f17",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.802051",
+                  "versionDate": "2026-02-17T13:37:31.357932",
+                  "versionNumber": 104654
+                },
+                "key": 72750,
+                "id": "UFX4MASMAS04-STG1-COMP-1",
+                "uid": "923ea66c-242f-467e-b93b-e08fe5b40017",
+                "code": "UFX4MASMAS04-STG1-COMP-1",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "COMP",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 1 | Compulsory 1"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "44e0b177-69f0-4078-93ba-48b8698f3515",
+                    "module": {
+                      "id": "MTH1000",
+                      "uid": "0e9d144e-9935-435b-bead-c9c7728ef6a7",
+                      "code": "MTH1000",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Foundations"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "5fa4964a-e5b1-49ff-b886-5e8ea9d9c1ac",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "b20da209-0c99-4580-ba5a-a5baaee007ca",
+                    "module": {
+                      "id": "MTH1001",
+                      "uid": "d0b60ebd-41d3-4c14-b550-9d538d4bbab0",
+                      "code": "MTH1001",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematical Structures"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "c94af1af-6298-422e-ac67-5901209e5474",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "fef02002-577b-4ba8-b4fa-f63bd9dddfcc",
+                    "module": {
+                      "id": "MTH1002",
+                      "uid": "6e8c191f-0a36-4124-8aed-b7c157de2c22",
+                      "code": "MTH1002",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematical Methods"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "b3aabc2b-45f1-471a-9ea6-282bd8a675ee",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "9565ba20-cf11-4e69-ad24-b2906a28f935",
+                    "module": {
+                      "id": "MTH1003",
+                      "uid": "fc9ad42b-348a-4ee5-b495-191097279fb1",
+                      "code": "MTH1003",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematical Modelling"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "d7914066-3c70-4d07-a194-55a0e376a3cb",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "3065265f-6a3d-4663-875d-2c85a12e9f3b",
+                    "module": {
+                      "id": "MTH1004",
+                      "uid": "2c18677a-9ae6-482a-b8fc-8eb93e38dadb",
+                      "code": "MTH1004",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Probability, Statistics and Data"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "128e1ce1-8841-4953-a6ba-2d0a67fdbb0a",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": []
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG1-COMP-1",
+                "uid": "923ea66c-242f-467e-b93b-e08fe5b40017",
+                "code": "UFX4MASMAS04-STG1-COMP-1",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            }
+          ],
+          "modules": [],
+          "parents": [],
+          "values": []
+        },
+        "target": {
+          "id": "UFX4MASMAS04-STG1",
+          "uid": "2c022a65-1326-4363-a389-b9ef476da8e4",
+          "code": "UFX4MASMAS04-STG1",
+          "names": []
+        },
+        "required": false,
+        "qualified": true,
+        "values": []
+      },
+      {
+        "uid": "74705df2-9050-4e05-89bd-4d15cf655270",
+        "group": {
+          "metadata": {
+            "organisationId": "67caa2bbd7032108f05b1918",
+            "publicationDate": "2026-03-15T15:32:43.785436",
+            "versionDate": "2026-03-09T12:31:25.382138",
+            "versionNumber": 189791
+          },
+          "key": 67410,
+          "id": "UFX4MASMAS04-STG2",
+          "uid": "3734ee26-7ea4-4722-8cd6-93a93df7fb13",
+          "code": "UFX4MASMAS04-STG2",
+          "year": {
+            "id": "2026-27",
+            "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+            "code": "2026-27",
+            "names": [
+              {
+                "language": "EN",
+                "value": "2026-27"
+              }
+            ]
+          },
+          "faculty": {
+            "id": "ESE",
+            "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+            "code": "ESE",
+            "abbreviation": "ESE",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Faculty of Environment, Science and Economy"
+              }
+            ]
+          },
+          "organisation": {
+            "id": "MAT",
+            "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+            "code": "MAT",
+            "abbreviation": "MAT",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Mathematics and Statistics"
+              }
+            ]
+          },
+          "study": {
+            "id": "UFX4MASMAS04",
+            "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+            "code": "UFX4MASMAS04",
+            "names": [
+              {
+                "language": "EN",
+                "value": "MMath (Hons) Mathematics  (Full-Time)"
+              }
+            ]
+          },
+          "type": "STG2",
+          "credits": {
+            "values": []
+          },
+          "capacity": {
+            "values": []
+          },
+          "names": [
+            {
+              "language": "EN",
+              "value": "MMath Mathematics | Stage 2"
+            }
+          ],
+          "descriptions": [],
+          "relations": [],
+          "additional": {
+            "values": []
+          },
+          "items": [],
+          "subjects": [],
+          "objectives": [],
+          "links": [],
+          "groups": [
+            {
+              "uid": "4396e065-d738-4035-b4e9-952812c8834d",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.8617",
+                  "versionDate": "2026-02-17T13:38:52.67715",
+                  "versionNumber": 104686
+                },
+                "key": 80683,
+                "id": "UFX4MASMAS04-STG2-OPT-1",
+                "uid": "6cde1a4f-be3f-48da-b852-dfd5736dce66",
+                "code": "UFX4MASMAS04-STG2-OPT-1",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "OPT",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 2 | Optional 1"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "847800ca-0b96-4951-820a-0ff694110191",
+                    "module": {
+                      "id": "MTH2003",
+                      "uid": "ef51b0cc-53ff-4573-a314-8e0e3348d664",
+                      "code": "MTH2003",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Differential Equations"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "3b0a1f03-c86c-4e71-a637-fadf76da11ad",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "1270e44b-d07f-4797-9a68-84da87bc2573",
+                    "module": {
+                      "id": "MTH2008",
+                      "uid": "aff2450d-57cc-4951-b5f6-dc9d1d7aad46",
+                      "code": "MTH2008",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Real Analysis"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "0fc8b90f-00c2-4001-8086-f23b99fccf30",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "322d41c1-cc70-4a16-8f9d-1dea1f4de40e",
+                    "module": {
+                      "id": "MTH2010",
+                      "uid": "2c402bc2-66cd-4fa3-84df-3e2151800796",
+                      "code": "MTH2010",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Groups, Rings and Fields"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "99c042c0-52f4-490b-931d-bbbf65f7180c",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "4e142cb5-45f0-4afd-97eb-d2c57d472591",
+                    "module": {
+                      "id": "MTH2004",
+                      "uid": "81dc9bc3-1ed5-4305-ab40-f9d8e5e2522b",
+                      "code": "MTH2004",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Vector Calculus and Applications"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "562f0677-4b43-405f-a977-82077b2f8433",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "a7d58f5b-3707-43bf-8b05-9e927a75151b",
+                    "module": {
+                      "id": "MTH2009",
+                      "uid": "b0aef114-0c3d-4fc1-a4f9-c93d0718bf58",
+                      "code": "MTH2009",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Complex Analysis"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "ff86cdda-bd1a-4d9a-8187-6a5dbb222404",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "b128c1f0-9b02-4e47-9619-eb525da24988",
+                    "module": {
+                      "id": "MTH2011",
+                      "uid": "b122df46-4b01-4439-8480-de1b6c487d2a",
+                      "code": "MTH2011",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Linear Algebra"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "79e3ac70-7f5c-4262-8010-637549377945",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": []
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG2-OPT-1",
+                "uid": "6cde1a4f-be3f-48da-b852-dfd5736dce66",
+                "code": "UFX4MASMAS04-STG2-OPT-1",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            },
+            {
+              "uid": "e6d21904-2ac7-4ae5-a402-627ca517a0d7",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.866581",
+                  "versionDate": "2026-03-09T12:33:35.764268",
+                  "versionNumber": 189797
+                },
+                "key": 80684,
+                "id": "UFX4MASMAS04-STG2-OPT-2",
+                "uid": "543debdb-9ca4-4f72-ab61-e960df8c2c05",
+                "code": "UFX4MASMAS04-STG2-OPT-2",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "OPT",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 2 | Optional 2"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "0642cba3-792b-4f79-b8c5-12ac89656107",
+                    "module": {
+                      "id": "NMC0050",
+                      "uid": "ea062c96-2581-4ec5-aed2-8ffe9874f187",
+                      "code": "MTH2014",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Numerical Modelling"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "8a4e8c97-c6a4-4823-b26f-883abdbc6510",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "ced3f5ab-1b84-4f0a-8098-bcd7744772a0",
+                    "module": {
+                      "id": "MTH2006",
+                      "uid": "27a0053d-62c7-4a82-ae0b-9e993cc58ce0",
+                      "code": "MTH2006",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Statistical Modelling and Inference"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "397224ea-34b8-4e5b-8300-6e89322a7108",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "5b934747-57cf-47da-b835-10857092f311",
+                    "module": {
+                      "id": "NMC0067",
+                      "uid": "49c9ced6-1683-40ea-b22c-96c9b4f0afd9",
+                      "code": "MTH2015",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematics of Machine Learning and AI"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "0c4581a7-b62f-4717-833b-cbaad46876bf",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": []
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG2-OPT-2",
+                "uid": "543debdb-9ca4-4f72-ab61-e960df8c2c05",
+                "code": "UFX4MASMAS04-STG2-OPT-2",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            }
+          ],
+          "modules": [],
+          "parents": [],
+          "values": []
+        },
+        "target": {
+          "id": "UFX4MASMAS04-STG2",
+          "uid": "3734ee26-7ea4-4722-8cd6-93a93df7fb13",
+          "code": "UFX4MASMAS04-STG2",
+          "names": []
+        },
+        "required": false,
+        "qualified": true,
+        "values": []
+      },
+      {
+        "uid": "3173c419-7784-4c88-869b-1bdc731b234b",
+        "group": {
+          "metadata": {
+            "organisationId": "67caa2bbd7032108f05b1918",
+            "publicationDate": "2026-03-15T15:32:43.79065",
+            "versionDate": "2026-02-17T13:42:20.508824",
+            "versionNumber": 104772
+          },
+          "key": 67411,
+          "id": "UFX4MASMAS04-STG3",
+          "uid": "50e980d6-044c-45e8-98ab-af4820659819",
+          "code": "UFX4MASMAS04-STG3",
+          "year": {
+            "id": "2026-27",
+            "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+            "code": "2026-27",
+            "names": [
+              {
+                "language": "EN",
+                "value": "2026-27"
+              }
+            ]
+          },
+          "faculty": {
+            "id": "ESE",
+            "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+            "code": "ESE",
+            "abbreviation": "ESE",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Faculty of Environment, Science and Economy"
+              }
+            ]
+          },
+          "organisation": {
+            "id": "MAT",
+            "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+            "code": "MAT",
+            "abbreviation": "MAT",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Mathematics and Statistics"
+              }
+            ]
+          },
+          "study": {
+            "id": "UFX4MASMAS04",
+            "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+            "code": "UFX4MASMAS04",
+            "names": [
+              {
+                "language": "EN",
+                "value": "MMath (Hons) Mathematics  (Full-Time)"
+              }
+            ]
+          },
+          "type": "STG3",
+          "credits": {
+            "values": []
+          },
+          "capacity": {
+            "values": []
+          },
+          "names": [
+            {
+              "language": "EN",
+              "value": "MMath Mathematics | Stage 3"
+            }
+          ],
+          "descriptions": [],
+          "relations": [],
+          "additional": {
+            "values": []
+          },
+          "items": [],
+          "subjects": [],
+          "objectives": [],
+          "links": [],
+          "groups": [
+            {
+              "uid": "fa97c0d2-6378-440b-b70b-95cbc8953302",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.83189",
+                  "versionDate": "2026-02-17T13:41:22.117518",
+                  "versionNumber": 104735
+                },
+                "key": 72754,
+                "id": "UFX4MASMAS04-STG3-COMP-1",
+                "uid": "97e8c404-0b32-4c89-9ee6-2d4b1dbb9404",
+                "code": "UFX4MASMAS04-STG3-COMP-1",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "COMP",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 3 | Compulsory 1"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "6915ca7c-94dc-446d-a4a9-bb0a22cca007",
+                    "module": {
+                      "id": "MTHM036",
+                      "uid": "52aa71de-8b16-437d-a69d-bee3c7dd1ff5",
+                      "code": "MTHM036",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Research in Mathematical Sciences"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "e6792deb-dace-4b8f-89fa-253edcb512cb",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": []
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG3-COMP-1",
+                "uid": "97e8c404-0b32-4c89-9ee6-2d4b1dbb9404",
+                "code": "UFX4MASMAS04-STG3-COMP-1",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            },
+            {
+              "uid": "2f4e2d12-2be8-4012-9786-1f0a684804f0",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.876648",
+                  "versionDate": "2026-03-09T12:50:29.274361",
+                  "versionNumber": 189955
+                },
+                "key": 80686,
+                "id": "UFX4MASMAS04-STG3-OPT-1",
+                "uid": "f1daea5b-e3a6-4bcb-8d91-95ce1dac3915",
+                "code": "UFX4MASMAS04-STG3-OPT-1",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "OPT",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 3 | Optional 1"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "800d0028-1410-4ee8-9333-8c3cf949c68b",
+                    "module": {
+                      "id": "MTH3004",
+                      "uid": "c9bed06e-2629-44e3-9705-554bceb57d9f",
+                      "code": "MTH3004",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Number Theory"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "bcedd544-7782-4a00-b79e-13b45f581757",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "baa0851a-59c6-432c-ba88-4d3619b1fe20",
+                    "module": {
+                      "id": "MTH3006",
+                      "uid": "9e88d886-cb3f-42af-a692-443bcab59521",
+                      "code": "MTH3006",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematical Biology and Ecology"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "dbffefab-a55e-40a5-8958-bca9ed984de2",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "4a593c00-1e95-450b-a56c-dd77031d2b03",
+                    "module": {
+                      "id": "MTH3007",
+                      "uid": "cf327d45-fb61-47a9-8db7-95baf642b5db",
+                      "code": "MTH3007",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Fluid Dynamics"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "9cbab3e0-f9f6-447e-98ad-9d624e70e5fe",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "a932f2a1-72d5-41aa-a5b1-a7fde0fec9cc",
+                    "module": {
+                      "id": "MTH3019",
+                      "uid": "aee1596c-347a-486a-8c04-d0d0ca78e70f",
+                      "code": "MTH3019",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematics: History and Culture"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "2f812038-4ffb-40d6-b86e-b7ace5376db4",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "8550bd00-45fe-4782-af08-82d460e860db",
+                    "module": {
+                      "id": "MTH3022",
+                      "uid": "017cb84f-79ac-4447-87b1-708c2f99fd97",
+                      "code": "MTH3022",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Graphs, Networks and Algorithms"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "0d148a07-8bf8-410d-bcba-2848735332b3",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "b27f226d-59f9-43c3-a0bb-2b1622269624",
+                    "module": {
+                      "id": "MTH3028",
+                      "uid": "e3909b3d-1fd4-4e08-b989-bd490cd47a95",
+                      "code": "MTH3028",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Statistical Inference"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "5bdc7825-3ba4-4bbb-9c51-9a762405e22a",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "579e2500-d784-4500-aad3-b16f09fa3e5a",
+                    "module": {
+                      "id": "MTH3030",
+                      "uid": "53414dac-cd9d-4d10-b372-860079ce6c54",
+                      "code": "MTH3030",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematics of Climate Change"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "768ab2d4-fa72-4c1e-9f3b-5a6dc600723e",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "baf216eb-01b9-4c30-b631-321bf271de4a",
+                    "module": {
+                      "id": "MTH3038",
+                      "uid": "4f601acd-cd47-4617-8e20-4bbaafc8b822",
+                      "code": "MTH3038",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Galois Theory"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "f312d037-e000-4337-9211-3d6df7588b93",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "8b1f0693-5d10-4f0f-ae2b-fb9c720a156e",
+                    "module": {
+                      "id": "MTH3039",
+                      "uid": "a17fd688-7221-443a-a5ec-d1aac89d0302",
+                      "code": "MTH3039",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Computational Nonlinear Dynamics"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "61eb7d6e-3440-4b75-abb2-1e3bbe24fb91",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "b90b665b-2dc5-404d-976e-383bf611026f",
+                    "module": {
+                      "id": "MTH3041",
+                      "uid": "c24826bf-1c47-4e75-8e96-4da3f005c670",
+                      "code": "MTH3041",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Bayesian Statistics, Philosophy and Practice"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "a6bfefd1-7273-4f31-9a49-6061cbd47861",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "476be821-b1ca-45dd-9a0b-f9464c38d080",
+                    "module": {
+                      "id": "MTH3001",
+                      "uid": "4b60436e-a5d9-4bd3-9217-b4f536854adc",
+                      "code": "MTH3001",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Theory of Weather and Climate"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "0f696224-fb39-4fdd-9d20-6744cf58b76c",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "d3d9b3c0-764a-4dc9-8afa-5f33c414f8d8",
+                    "module": {
+                      "id": "MTH3008",
+                      "uid": "b83e0a94-ad19-4a73-b7b8-d43ce0be20de",
+                      "code": "MTH3008",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Partial Differential Equations"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "da9e6943-9163-4a09-93d5-e403a0043e41",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "f75eaeff-cea3-4523-9348-e1b5c3a625a6",
+                    "module": {
+                      "id": "MTH3013",
+                      "uid": "9a1b95b4-0c3c-4604-909c-ae385a12196c",
+                      "code": "MTH3013",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Applied Differential Geometry"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "27ce453a-1ff8-4c4c-9a7c-c952313951f6",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "9a2ebcb3-5438-4e7c-9588-d2d890ea33f0",
+                    "module": {
+                      "id": "MTH3024",
+                      "uid": "1a4e51dd-7e95-4ae0-a1d2-841865e65cc6",
+                      "code": "MTH3024",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Stochastic Processes"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "1d074fb0-b534-4321-8a96-389dcf3b9a03",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "904706a5-1a26-4208-92dd-669c04db700f",
+                    "module": {
+                      "id": "MTH3026",
+                      "uid": "79b6de73-c712-45a6-bd1c-ed21a2484e58",
+                      "code": "MTH3026",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Cryptography"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "656f371b-5dc7-4661-aad8-d2fd3d99aebb",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "f3ff9959-14da-4b70-b67c-9f8ddfbb719c",
+                    "module": {
+                      "id": "MTH3040",
+                      "uid": "ebd16ff4-01c9-4cc6-aade-76268a3990b6",
+                      "code": "MTH3040",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Topology and Metric Spaces"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "4d48148c-9d8b-4432-8a64-4316400ee83e",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "43a6bde3-e305-4576-9299-e84540b71756",
+                    "module": {
+                      "id": "MTH3042",
+                      "uid": "093d1a7b-8027-4e75-b8f0-5c956d23e314",
+                      "code": "MTH3042",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Integral Equations"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "c8207189-1eb2-4ef1-8467-c3feb942bf44",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "570fe8ca-0ce4-43f6-920b-7dfb316f0697",
+                    "module": {
+                      "id": "MTH3045",
+                      "uid": "6d15a20f-da87-432e-b60b-9a1c22808e30",
+                      "code": "MTH3045",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Statistical Computing"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "b0012961-ab01-4ec1-8694-aaa845cae4b7",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": []
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG3-OPT-1",
+                "uid": "f1daea5b-e3a6-4bcb-8d91-95ce1dac3915",
+                "code": "UFX4MASMAS04-STG3-OPT-1",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            },
+            {
+              "uid": "12222699-7c7e-432b-b495-6a47e691f03a",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.881785",
+                  "versionDate": "2026-02-17T13:42:18.492019",
+                  "versionNumber": 104771
+                },
+                "key": 80687,
+                "id": "UFX4MASMAS04-STG3-OPT-2",
+                "uid": "bf89ebcf-09bd-492b-b716-420b8ed2c7b0",
+                "code": "UFX4MASMAS04-STG3-OPT-2",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "OPT",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 3 | Optional 2"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "b23e4647-0a42-4d67-bec5-82ea300b1c0e",
+                    "module": {
+                      "id": "EMP3001",
+                      "uid": "da8d97fb-1d87-423c-a382-10beaec4a7c3",
+                      "code": "EMP3001",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Commercial and Industrial Experience"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "b509bb49-b816-4eac-b3b1-8b17deca2d56",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "4daf8ce9-fbaf-4885-980a-0c11d9e40c85",
+                    "module": {
+                      "id": "NSC3009",
+                      "uid": "9b80745a-f25b-4d44-8c71-97630bc226f0",
+                      "code": "NSC3009",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Aerosols, Clouds and Climate"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "a535c345-acbb-4f03-bc23-34d16af2ab2c",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": []
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG3-OPT-2",
+                "uid": "bf89ebcf-09bd-492b-b716-420b8ed2c7b0",
+                "code": "UFX4MASMAS04-STG3-OPT-2",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            }
+          ],
+          "modules": [],
+          "parents": [],
+          "values": []
+        },
+        "target": {
+          "id": "UFX4MASMAS04-STG3",
+          "uid": "50e980d6-044c-45e8-98ab-af4820659819",
+          "code": "UFX4MASMAS04-STG3",
+          "names": []
+        },
+        "required": false,
+        "qualified": true,
+        "values": []
+      },
+      {
+        "uid": "f654e6eb-f77d-4d02-8517-8bd9b4d11d6c",
+        "group": {
+          "metadata": {
+            "organisationId": "67caa2bbd7032108f05b1918",
+            "publicationDate": "2026-03-15T15:32:43.79727",
+            "versionDate": "2026-02-17T14:05:03.558169",
+            "versionNumber": 105259
+          },
+          "key": 67412,
+          "id": "UFX4MASMAS04-STG4",
+          "uid": "a44927ae-4312-4411-b69f-2dd49b0feb8e",
+          "code": "UFX4MASMAS04-STG4",
+          "year": {
+            "id": "2026-27",
+            "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+            "code": "2026-27",
+            "names": [
+              {
+                "language": "EN",
+                "value": "2026-27"
+              }
+            ]
+          },
+          "faculty": {
+            "id": "ESE",
+            "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+            "code": "ESE",
+            "abbreviation": "ESE",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Faculty of Environment, Science and Economy"
+              }
+            ]
+          },
+          "organisation": {
+            "id": "MAT",
+            "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+            "code": "MAT",
+            "abbreviation": "MAT",
+            "names": [
+              {
+                "language": "EN",
+                "value": "Mathematics and Statistics"
+              }
+            ]
+          },
+          "study": {
+            "id": "UFX4MASMAS04",
+            "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+            "code": "UFX4MASMAS04",
+            "names": [
+              {
+                "language": "EN",
+                "value": "MMath (Hons) Mathematics  (Full-Time)"
+              }
+            ]
+          },
+          "type": "STG4",
+          "credits": {
+            "values": []
+          },
+          "capacity": {
+            "values": []
+          },
+          "names": [
+            {
+              "language": "EN",
+              "value": "MMath Mathematics | Stage 4"
+            }
+          ],
+          "descriptions": [],
+          "relations": [],
+          "additional": {
+            "values": []
+          },
+          "items": [],
+          "subjects": [],
+          "objectives": [],
+          "links": [],
+          "groups": [
+            {
+              "uid": "f75bb47e-0209-437e-82fe-28f2f9a32810",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.904996",
+                  "versionDate": "2026-02-17T13:45:16.828281",
+                  "versionNumber": 104837
+                },
+                "key": 72756,
+                "id": "UFX4MASMAS04-STG4-COMP-1",
+                "uid": "57f64054-d0af-4a21-9a38-20872ba2159d",
+                "code": "UFX4MASMAS04-STG4-COMP-1",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "COMP",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 4 | Compulsory Choice"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "972b99d4-9f02-440b-b54a-73fa9309f73b",
+                    "module": {
+                      "id": "MTHM005",
+                      "uid": "a0d869f0-167c-4361-8276-5412db7e6831",
+                      "code": "MTHM005",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematical Sciences Project"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "09891c02-d9e3-474b-b8ac-752ed3377fec",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "9dd2be7e-31b3-4b74-9d36-7fb3c1075200",
+                    "module": {
+                      "id": "MTHM044",
+                      "uid": "15f0c198-ff37-4225-a777-70cfef64f32f",
+                      "code": "MTHM044",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "MMath Project in Statistics"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "7707b99a-3593-4ca8-8c94-b5268027b6e9",
+                        "period": {
+                          "id": "AUTSPR",
+                          "uid": "14ce939a-5ecf-4ebb-8235-af0e3144a9aa",
+                          "code": "AUTSPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spans Autumn and Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": [
+                  {
+                    "name": "Programme_Collection_Level_Of_Study",
+                    "type": "STRING",
+                    "values": [
+                      ".specificationId.Level_Of_Study"
+                    ]
+                  },
+                  {
+                    "name": "Programme_Mode_Of_Attendance",
+                    "type": "STRING",
+                    "values": [
+                      ".studyId.Programme_Mode_Of_Attendance"
+                    ]
+                  }
+                ]
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG4-COMP-1",
+                "uid": "57f64054-d0af-4a21-9a38-20872ba2159d",
+                "code": "UFX4MASMAS04-STG4-COMP-1",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            },
+            {
+              "uid": "e49885f2-0004-4dd7-b215-fc9b6454287d",
+              "group": {
+                "metadata": {
+                  "organisationId": "67caa2bbd7032108f05b1918",
+                  "publicationDate": "2026-03-15T15:32:43.890739",
+                  "versionDate": "2026-02-17T13:46:13.896354",
+                  "versionNumber": 104882
+                },
+                "key": 80689,
+                "id": "UFX4MASMAS04-STG4-OPT-1",
+                "uid": "70c315e3-596f-4afd-8d59-0fe8030137bd",
+                "code": "UFX4MASMAS04-STG4-OPT-1",
+                "year": {
+                  "id": "2026-27",
+                  "uid": "2dd79303-4051-4fad-a32c-16c2330ddd05",
+                  "code": "2026-27",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "2026-27"
+                    }
+                  ]
+                },
+                "faculty": {
+                  "id": "ESE",
+                  "uid": "13f48aa5-4701-4885-8aa5-a6b140a09aa8",
+                  "code": "ESE",
+                  "abbreviation": "ESE",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Faculty of Environment, Science and Economy"
+                    }
+                  ]
+                },
+                "organisation": {
+                  "id": "MAT",
+                  "uid": "07fa3169-479d-4a11-8571-d600075ea3fa",
+                  "code": "MAT",
+                  "abbreviation": "MAT",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "Mathematics and Statistics"
+                    }
+                  ]
+                },
+                "study": {
+                  "id": "UFX4MASMAS04",
+                  "uid": "b6f3b4c7-95b3-4ca5-91ab-18e7361db954",
+                  "code": "UFX4MASMAS04",
+                  "names": [
+                    {
+                      "language": "EN",
+                      "value": "MMath (Hons) Mathematics  (Full-Time)"
+                    }
+                  ]
+                },
+                "type": "OPT",
+                "credits": {
+                  "values": []
+                },
+                "capacity": {
+                  "values": []
+                },
+                "names": [
+                  {
+                    "language": "EN",
+                    "value": "MMath Mathematics | Stage 4 | Optional 1"
+                  }
+                ],
+                "descriptions": [],
+                "relations": [],
+                "additional": {
+                  "values": []
+                },
+                "items": [],
+                "subjects": [],
+                "objectives": [],
+                "links": [],
+                "groups": [],
+                "modules": [
+                  {
+                    "uid": "c1228700-0d6a-44d9-a4e2-dc943144be8c",
+                    "module": {
+                      "id": "MTHM010",
+                      "uid": "0d356ab3-a259-4af4-97c7-67a1dea0cde2",
+                      "code": "MTHM010",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Representation Theory of Finite Groups"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "446de6b3-5644-4a1a-8e8c-3ee229b7e5b6",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "0d7eb751-9cfb-4b19-8c22-ae893791884e",
+                    "module": {
+                      "id": "MTHM018",
+                      "uid": "6f79f111-900d-4003-b9ff-624f80c96756",
+                      "code": "MTHM018",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Dynamical Systems and Chaos"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "b41fb94e-9bd4-4a97-90a1-cc234f1948ff",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "2897e8b4-a28f-4e5b-b4d5-45d7cb5634d6",
+                    "module": {
+                      "id": "MTHM031",
+                      "uid": "7cfd90e2-439b-4cbc-8237-20f553526cef",
+                      "code": "MTHM031",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Magnetic Fields and Fluid Flows"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "870b237a-204b-4dc8-8feb-024f8f773ab3",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "d055cf79-a86f-4368-a2ae-79833a5650e2",
+                    "module": {
+                      "id": "MTHM033",
+                      "uid": "957d9091-77b6-4f6b-98ea-38dc4b368259",
+                      "code": "MTHM033",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Statistical Modelling in Space and Time"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "e4be6a36-914b-469c-b5b9-d57e1add2109",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "197f9826-7c66-40b2-a571-026e9e14be6c",
+                    "module": {
+                      "id": "MTHM048",
+                      "uid": "b50882ec-bce5-4096-8516-a2e34369c40f",
+                      "code": "MTHM048",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Ergodic Theory"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "4de3150c-3ac2-4dd4-b8f6-70ded6757da0",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "eb41ce87-3e4e-440d-a331-92affff13e2f",
+                    "module": {
+                      "id": "MTHM061",
+                      "uid": "af872267-af03-4948-b90f-362081f5780e",
+                      "code": "MTHM061",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Topics in Analytic Number Theory"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "49c06e01-0e81-462e-8fef-f391db0d010f",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "4a497671-2026-43f1-a9e8-f6074f83f692",
+                    "module": {
+                      "id": "NSCM005",
+                      "uid": "ecd02033-14b3-4efb-9862-34f58f4b3823",
+                      "code": "NSCM005",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematical Modelling in Biology and Medicine"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "3b048066-d981-4527-84c0-75c9aff45778",
+                        "period": {
+                          "id": "AUT",
+                          "uid": "09fa920d-2511-43a5-90dd-62b5979f910e",
+                          "code": "AUT",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Autumn Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2026-09-21",
+                        "endDate": "2026-12-11",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "3796800f-2236-42c9-a685-a9e9c42a346a",
+                    "module": {
+                      "id": "MTHM004",
+                      "uid": "322122d1-b561-4008-bc1b-ddf607889e64",
+                      "code": "MTHM004",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Fractal Geometry"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "1bf88fcd-4fab-4289-936b-2a68572db368",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "970f0f6c-a501-4d16-8686-2d4560af760c",
+                    "module": {
+                      "id": "MTHM006",
+                      "uid": "f1eac341-226b-44e3-8a6b-5a016d96516f",
+                      "code": "MTHM006",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mathematical Theory of Option Pricing"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "78f3bb94-8763-4bd0-9bdc-11cdb328eb9a",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "0c875ed0-3f73-47fa-a80f-f3eaaeab9ea8",
+                    "module": {
+                      "id": "MTHM009",
+                      "uid": "e9634c35-a846-45af-afd5-ff549aa25a82",
+                      "code": "MTHM009",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Advanced Topics in Mathematical and Computational Biology"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "82f6e2cf-bfd4-44e1-93ca-4e6f40d65eeb",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "78f683eb-8e2d-421c-bf32-8ae21c76d764",
+                    "module": {
+                      "id": "MTHM015",
+                      "uid": "eb1c21bf-dbfa-471d-9af0-29c64c35284c",
+                      "code": "MTHM015",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "AI and Data Science Methods for Life and Health Sciences"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "9eec6acf-8064-43df-a749-efd450b10a0d",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "9ad2e175-96fa-44f6-a9c2-c516fd9f61a8",
+                    "module": {
+                      "id": "MTHM019",
+                      "uid": "fb60e6d0-6671-4acd-a809-599b2aac28e6",
+                      "code": "MTHM019",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Fluid Dynamics of Atmospheres and Oceans"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "eb538467-8280-4511-975b-da015084f023",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "8a00576c-131c-415a-b7bf-a60477a392c8",
+                    "module": {
+                      "id": "MTHM023",
+                      "uid": "672185ed-54ac-4a1c-ae60-9436235cc2c4",
+                      "code": "MTHM023",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Modelling the Weather and Climate"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "72a51210-5cd4-4974-813c-73c9a6a915a1",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "9519cb68-76f9-437a-a3c7-d17f85b03b81",
+                    "module": {
+                      "id": "MTHM029",
+                      "uid": "a33f22c9-2c8f-404e-85b9-bd2652a344bf",
+                      "code": "MTHM029",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Algebraic Curves"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "b5b7ac81-4f53-48db-af38-fd844b005537",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "d9c0db23-5222-48a4-bb1a-87cecf92aa6e",
+                    "module": {
+                      "id": "MTHM045",
+                      "uid": "1e801c95-e71b-46c9-9196-010c5a2b12e6",
+                      "code": "MTHM045",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Space Weather and Plasmas"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "622db800-cb2e-42d2-abbc-c1dbe0acdc5f",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "d3be1786-333e-4c9b-8cd7-e39ed305d244",
+                    "module": {
+                      "id": "MTHM052",
+                      "uid": "451d7bbb-fd97-40d7-bbd6-c967d5f1db7c",
+                      "code": "MTHM052",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Mid-latitude Weather Systems"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [
+                      {
+                        "uid": "0b87cf43-019a-4fd6-ab8e-8771adfab09c",
+                        "period": {
+                          "id": "SPR",
+                          "uid": "1b046578-5522-42ec-b487-9f52509c1102",
+                          "code": "SPR",
+                          "names": [
+                            {
+                              "language": "EN",
+                              "value": "Spring Term"
+                            }
+                          ]
+                        },
+                        "blocks": [],
+                        "startDate": "2027-01-04",
+                        "endDate": "2027-03-26",
+                        "values": []
+                      }
+                    ],
+                    "values": []
+                  },
+                  {
+                    "uid": "e95b1db8-db96-46c5-913c-0975cff40226",
+                    "module": {
+                      "id": "MTHM014",
+                      "uid": "83738a26-7a8b-4f45-baf0-d943d93856f2",
+                      "code": "MTHM014",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Metric Number Theory and Diophantine Approximation"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [],
+                    "values": []
+                  },
+                  {
+                    "uid": "439d6751-c908-4c23-bbaf-6772e50eefe1",
+                    "module": {
+                      "id": "MTHM028",
+                      "uid": "dd7c8d15-32cb-4261-a6c6-7ce9e6c00487",
+                      "code": "MTHM028",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Algebraic Number Theory"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [],
+                    "values": []
+                  },
+                  {
+                    "uid": "1ae46404-3ef7-4a26-9109-3d84b2f9b2ad",
+                    "module": {
+                      "id": "MTHM030",
+                      "uid": "cf451058-4163-4b60-b587-7adc15e161a3",
+                      "code": "MTHM030",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Waves, Instabilities and Turbulence"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [],
+                    "values": []
+                  },
+                  {
+                    "uid": "de67c184-7fb1-4aa2-9b9e-8568bb81bfd6",
+                    "module": {
+                      "id": "MTHM062",
+                      "uid": "9d53733c-84a2-4e4f-9a1e-4fccbcc79d91",
+                      "code": "MTHM062",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Data-driven Analysis and Modelling of Dynamical Systems"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [],
+                    "values": []
+                  },
+                  {
+                    "uid": "ccd74f2c-e407-470d-8c04-522785c1bcae",
+                    "module": {
+                      "id": "MTHM063",
+                      "uid": "a02894d2-c4e8-4904-a1c5-0aa3b7c2ba4a",
+                      "code": "MTHM063",
+                      "names": [
+                        {
+                          "language": "EN",
+                          "value": "Uncertainty Quantification"
+                        }
+                      ]
+                    },
+                    "required": false,
+                    "alternative": false,
+                    "offerings": [],
+                    "values": []
+                  }
+                ],
+                "parents": [],
+                "values": []
+              },
+              "target": {
+                "id": "UFX4MASMAS04-STG4-OPT-1",
+                "uid": "70c315e3-596f-4afd-8d59-0fe8030137bd",
+                "code": "UFX4MASMAS04-STG4-OPT-1",
+                "names": []
+              },
+              "required": false,
+              "values": []
+            }
+          ],
+          "modules": [],
+          "parents": [],
+          "values": []
+        },
+        "target": {
+          "id": "UFX4MASMAS04-STG4",
+          "uid": "a44927ae-4312-4411-b69f-2dd49b0feb8e",
+          "code": "UFX4MASMAS04-STG4",
+          "names": []
+        },
+        "required": false,
+        "qualified": true,
+        "values": []
+      }
+    ],
+    "values": [
+      {
+        "name": "Programme_Title",
+        "type": "STRING",
+        "values": [
+          "Mathematics"
+        ]
+      },
+      {
+        "name": "SITS_PRG_Programme_Code",
+        "type": "STRING",
+        "values": [
+          "UFX4MASMAS04"
+        ]
+      },
+      {
+        "name": "Programme_Approval_Route",
+        "type": "ENTITY",
+        "subType": "specification-type",
+        "values": [
+          "SAP"
+        ]
+      },
+      {
+        "name": "Proposed_Programme_Length_Value",
+        "type": "NUMBER",
+        "values": [
+          "45"
+        ]
+      },
+      {
+        "name": "Programme_Origin_Date",
+        "type": "DATE_TIME",
+        "values": [
+          "2025-08-01T00:00"
+        ]
+      },
+      {
+        "name": "SITS_PRG_Programme_Name",
+        "type": "STRING",
+        "values": [
+          "MMath Mathematics"
+        ]
+      },
+      {
+        "name": "Programme_Level_Of_Study",
+        "type": "REFERENCE",
+        "subType": "Level_Of_Study",
+        "values": [
+          "UGT"
+        ]
+      },
+      {
+        "name": "Programme_Delivery_Method",
+        "type": "REFERENCE",
+        "subType": "Delivery_Method",
+        "values": [
+          "FTF"
+        ]
+      }
+    ]
+  },
+  "productType": "STUDY",
+  "new": false
+}

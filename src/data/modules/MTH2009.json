@@ -1,0 +1,13 @@
+{
+  "code": "MTH2009",
+  "title": "Complex Analysis",
+  "credits": 15,
+  "term": "SPR",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1001"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

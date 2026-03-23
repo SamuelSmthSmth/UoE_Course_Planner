@@ -1,0 +1,13 @@
+{
+  "code": "MTH3001",
+  "title": "Theory of Weather and Climate",
+  "credits": 15,
+  "term": "SPR",
+  "stage": "Stage 3",
+  "prerequisites": [
+    "MTH1001"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

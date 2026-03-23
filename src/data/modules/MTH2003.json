@@ -1,0 +1,13 @@
+{
+  "code": "MTH2003",
+  "title": "Differential Equations",
+  "credits": 15,
+  "term": "AUT",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1003"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

@@ -1,0 +1,13 @@
+{
+  "code": "MTH2006",
+  "title": "Statistical Modelling and Inference",
+  "credits": 15,
+  "term": "AUTSPR",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1001"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}

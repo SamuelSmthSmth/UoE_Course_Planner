@@ -1,0 +1,13 @@
+{
+  "code": "MTH2010",
+  "title": "Groups, Rings and Fields",
+  "credits": 15,
+  "term": "AUT",
+  "stage": "Stage 2",
+  "prerequisites": [
+    "MTH1001"
+  ],
+  "corequisites": [],
+  "incompatibilities": [],
+  "relations": []
+}
