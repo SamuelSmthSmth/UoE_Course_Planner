@@ -35,9 +35,21 @@ While this repository is currently pre-loaded with the Exeter MMath syllabus, **
 
 ## Running Locally
 
-```bash
-git clone [https://github.com/SamuelSmthSmth/UoE_Course_Planner.git](https://github.com/SamuelSmthSmth/UoE_Course_Planner.git)
-cd UoE_Course_Planner
-npm install
-npm run dev
+  ```bash
+  git clone [https://github.com/SamuelSmthSmth/UoE_Course_Planner.git](https://github.com/SamuelSmthSmth/UoE_Course_Planner.git)
+  cd UoE_Course_Planner
+  npm install
+  npm run dev
+  ```
 
+The app will be running at http://localhost:5173.
+
+---
+
+🤝 Contributing
+
+Built for the students, by the students (and a lot of vibe coding). If you spot a missing module or an incorrect prerequisite link in the Exeter syllabus, feel free to open a Pull Request! Simply add the missing connection to the src/data/overrides.json file.
+
+📄 License
+
+This project is open-source and available under the MIT License.
