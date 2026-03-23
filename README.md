@@ -1,6 +1,6 @@
 # 🎓 University of Exeter - MMath Course Planner
 
-An interactive, visual degree planner built for Mathematics students at the University of Exeter. This application allows students to map out their 4-year MMath degree, automatically validating prerequisites, tracking credit limits, and visualizing the entire module dependency tree.
+An interactive, visual degree planner built for Mathematics students at the University of Exeter. This application allows students to map out their 4-year MMath degree, automatically validating prerequisites, tracking credit limits, and visualizing the entire module dependency tree. However, the application can also be forked or modified to map out other degree options.
 
 **[View Live Demo Here](https://SamuelSmthSmth.github.io/UoE_Course_Planner/)**
 
